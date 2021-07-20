@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+div {
+  width: 60px;
+
+  height: 60px;
+}
+#title {
+  color: skyblue !important;
+}
+.pierwszy {
+  background-color: rgb(46, 77, 61);
+}
+.drugi {
+  background-color: salmon;
+}
